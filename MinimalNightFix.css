@@ -1,6 +1,6 @@
 /**
  * @name MinimalNightFix
- * @version 1.0.1
+ * @version 1.0.2
  * @description Fork of MinimalNight by @dka & gold-me
  * @source https://github.com/tankintime/MinimalNightThemeFix/
  * @updateUrl https://github.com/tankintime/MinimalNightThemeFix/blob/master/MinimalNight.css
@@ -8,7 +8,7 @@
 */
 
 :root {
-	--Settings-Theme-Version: "MinimalNightFix v1.0.1";
+	--Settings-Theme-Version: "MinimalNightFix v1.0.2";
 
 	--Channel-Invite-Edit-Buttons: none;				/* flex = ON, none = OFF */
 	--Channel-Category-Invite-Button: flex;				/* flex = ON, none = OFF */
@@ -3820,10 +3820,10 @@ form .wrapper_faf5ab .lookFilled_dd4f85.colorPrimary_dd4f85:hover {
 /* Message Hover: Toolbar */
 [class^=buttons_][aria-label="Message Actions"] {
 	padding: 12px 0px 8px 132px;
-	top: +20px;
+	top: -20px;
 }
 [class^=buttons_][aria-label="Message Actions"] [class^=buttonsInner_] {
-	background-color: #0F0F0F;
+	background-color: #1F1F1F;
 	border-radius: 5px 5px 0px 0px;
 	box-shadow: none;
 	height: 32px;
