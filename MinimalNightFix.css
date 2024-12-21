@@ -3820,7 +3820,7 @@ form .wrapper_faf5ab .lookFilled_dd4f85.colorPrimary_dd4f85:hover {
 /* Message Hover: Toolbar */
 [class^=buttons_][aria-label="Message Actions"] {
 	padding: 12px 0px 8px 132px;
-	top: -5px;
+	top: -40px;
 }
 [class^=buttons_][aria-label="Message Actions"] [class^=buttonsInner_] {
 	background-color: #0F0F0F;
