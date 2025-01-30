@@ -1,14 +1,14 @@
 /**
- * @name MinimalNight
+ * @name MinimalNightFix
  * @version 1.4.1
- * @description Dark/Night and Minimalist Theme for Discord
- * @source https://github.com/MonolithOrchids/MinimalNightTheme/
- * @updateUrl https://github.com/MonolithOrchids/MinimalNightTheme/blob/master/MinimalNight.css
- * @author @dka & gold-me
+ * @description Fork of MinimalNight by @dka & gold-me
+ * @source https://github.com/tankintime/MinimalNightThemeFix
+ * @updateUrl https://tankintime.github.io/MinimalNightThemeFix/MinimalNightFix.css
+ * @author @tankintime
 */
 
 :root {
-	--Settings-Theme-Version: "MinimalNight v1.4.1";
+	--Settings-Theme-Version: "MinimalNightFix v1.4.1";
 
 	--Channel-Invite-Edit-Buttons: none;				/* flex = ON, none = OFF */
 	--Channel-Category-Invite-Button: flex;				/* flex = ON, none = OFF */
