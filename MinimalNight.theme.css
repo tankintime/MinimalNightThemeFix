@@ -1,13 +1,14 @@
 /**
- * @name MinimalNight
+ * @name MinimalNightFix
  * @version 1.4.1
- * @description Dark/Night and Minimalist Theme for Discord
- * @author @dka & gold-me
+ * @description Fork of MinimalNight by @dka & gold-me
+ * @source https://github.com/tankintime/MinimalNightThemeFix
+ * @author @tankintime
 */
 
-@import url("https://raw.githubusercontent.com/MonolithOrchids/MinimalNightTheme/master/MinimalNight.css");
-@import url("https://raw.githubusercontent.com/MonolithOrchids/MinimalNightTheme/master/Addons/Sidebar_Icons.css");
+@import url("https://tankintime.github.io/MinimalNightThemeFix/MinimalNightFix.css");
+@import url("https://tankintime.github.io/MinimalNightThemeFix/MinimalNightThemeFix/Sidebar_Icons.css");
 
 /* Remove /* if you want those buttons back to their original appearance */
-/* @import url("https://raw.githubusercontent.com/MonolithOrchids/MinimalNightTheme/master/Addons/Vanilla_ServerList_Message_Notice.theme.css");
-/* @import url("https://raw.githubusercontent.com/MonolithOrchids/MinimalNightTheme/master/Addons/Vanilla_Attachment_Button.theme.css");
+/* @import url("https://tankintime.github.io/MinimalNightThemeFix/Addons/Vanilla_ServerList_Message_Notice.theme.css");
+/* @import url("https://tankintime.github.io/MinimalNightThemeFix/Addons/Vanilla_Attachment_Button.theme.css");
